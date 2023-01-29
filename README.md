@@ -35,7 +35,7 @@
 ## Install npm dependencies:
 
 ```
-cd crud-node-prisma
+cd Pemrograman-web
 npm install
 ```
 
